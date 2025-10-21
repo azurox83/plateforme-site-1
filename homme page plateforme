@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>La Plateforme — Version simplifiée</title>
   <meta name="description" content="Prototype simplifié du site La Plateforme — formation numérique" /> 
+    <link rel="stylesheet" href="../css/styles.css"/>
 </head>
 <body>
-  <link rel="stylesheet" href="styles.css"/>
+
   <header>
 
     <!--zone des div utile-->
@@ -105,7 +106,7 @@
       <img src="https://laplateforme.io/wp-content/uploads/2021/07/HP_visual_light.jpg" 
       alt="Photo de l'équipe de La Plateforme" width="50%"/>
     </div>
-    
+
 <!--zone de fin-->
 
     <footer class="footer">
@@ -174,4 +175,3 @@ css
       body {
     background-color: #98bdd4; /* bleu clair */
   }
-
